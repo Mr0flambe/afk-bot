@@ -1,0 +1,11 @@
+{
+  "bot": {
+    "username": "Admin",
+    "password": "admin2"
+  },
+  "server": {
+    "host": "Sailab.aternos.me",
+    "port": 56265,
+    "version": "1.20.1"
+  }
+}
